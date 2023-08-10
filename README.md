@@ -14,7 +14,7 @@ I've put together a comprehensive video where I guide you through the entire pro
 	  🗃️ File Type: CSV
 
 ### Project Overview
-The objective of this project was to conduct a thorough analysis of an e-commerce platform using a dataset that included crucial information about products, customer reviews, purchase history, seller details, categories, and more. 🛍️
+The objective of this project was to conduct a thorough analysis of an e-commerce platform using data that included crucial information about products, customer reviews, purchase history, seller details, categories, and more.🛍️
 
 My primary goal was to extract meaningful insights about customer behavior, top-performing products, seller effectiveness, customer satisfaction, and overall platform performance through the application of advanced data analysis techniques.
 
